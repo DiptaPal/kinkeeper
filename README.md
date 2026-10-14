@@ -4,8 +4,8 @@
 
 ## 🌐 Live Demo
 
-- **Live Website:** (https://kinkeeper-lemon.vercel.app/)
-- **GitHub Repository:** (https://github.com/DiptaPal/kinkeeper)
+- **Live Website:** https://kinkeeper-lemon.vercel.app/
+- **GitHub Repository:** https://github.com/DiptaPal/kinkeeper
 
 ---
 
